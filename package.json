@@ -6,6 +6,8 @@
     "packageManager": "yarn@4.2.2",
     "devDependencies": {
         "@biomejs/biome": "^1.9.4",
+        "@types/node": "20",
+        "esbuild": "^0.25.0",
         "sort-package-json": "^2.14.0",
         "typescript": "^5.7.3"
     }
